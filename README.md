@@ -1,4 +1,4 @@
-# Nashville_Housing_Data_Cleaning_with_SQL_Project
+# Nashville Housing Data Cleaning with SQL : Project Overview
 
 It's a pure SQL project that tends to manage the data cleaning process of a dataset about Nashville Housing. This process included several parts :
 
